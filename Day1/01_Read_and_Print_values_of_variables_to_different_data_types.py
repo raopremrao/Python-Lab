@@ -1,0 +1,6 @@
+num = int(input("Enter a Number: "))
+pi = float(input("Enter the Pi: "))
+string = str(input("Enter the String: "))
+print("num = " + str(num))
+print("pi = " + str(pi))
+print("string = " + str(string))
