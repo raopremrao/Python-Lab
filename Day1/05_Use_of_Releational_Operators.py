@@ -1,0 +1,8 @@
+x = float(input("Enter a Number: "))
+y = float(input("Enter Another Number: "))
+print(x>=y)
+print(x<=y)
+print(x==y)
+print(x!=y)
+print(x<y)
+print(x>y)
